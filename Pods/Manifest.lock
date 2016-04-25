@@ -1,12 +1,15 @@
 PODS:
+  - Alamofire (3.3.1)
   - Firebase (2.5.1)
 
 DEPENDENCIES:
+  - Alamofire (~> 3.3)
   - Firebase (>= 2.5.1)
 
 SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
   Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
 
-PODFILE CHECKSUM: c47a74500ad1a0acbf21ea0391a27da7ec404918
+PODFILE CHECKSUM: b7a49e1a0cb16b6f394d180fb7b727cc23e4d420
 
 COCOAPODS: 1.0.0.beta.3
